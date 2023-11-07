@@ -10,7 +10,6 @@ function Navbar() {
         </div>
         <nav>
           <ul className="flex gap-[100px] p-[10px]">
-            <NavLink className="text-blue-800 hover:text-black font-bold" to="/">Home</NavLink>
             <NavLink className="text-blue-800 hover:text-black font-bold" to="/todo">Todo</NavLink>
           </ul>
         </nav>
